@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Prueba: Secuencia incorrecta (fallo esperado)
+Prueba: Secuencia correcta (debería llegar a estado q4)
+Prueba: múltiples fallos
+Prueba: reset manual
+$finish called at time : 960 ns : File "C:/Users/Tati/Desktop/A NOVENO SEMESTRE/Diseo de sistemas digitales/CODIGO_CORRECTO/CODIGO_CORRECTO.srcs/sim_1/new/tb_CODIGO_CORRECTO.sv" Line 74

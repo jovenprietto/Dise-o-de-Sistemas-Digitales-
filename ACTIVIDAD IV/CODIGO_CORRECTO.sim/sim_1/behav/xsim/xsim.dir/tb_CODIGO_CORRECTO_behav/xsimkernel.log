@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_CODIGO_CORRECTO_behav/xsimk.exe -simmode gui -wdb tb_CODIGO_CORRECTO_behav.wdb -simrunnum 0 -socket 50532
+Design successfully loaded
+Design Loading Memory Usage: 8488 KB (Peak: 8488 KB)
+Design Loading CPU Usage: 15 ms
