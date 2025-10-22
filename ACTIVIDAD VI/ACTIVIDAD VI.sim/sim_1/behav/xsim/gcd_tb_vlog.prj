@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../ACTIVIDAD VI.srcs/sources_1/new/control_unit.sv" \
+"../../../../ACTIVIDAD VI.srcs/sources_1/new/datapath.sv" \
+"../../../../ACTIVIDAD VI.srcs/sources_1/new/gcd_top.sv" \
+"../../../../ACTIVIDAD VI.srcs/sim_1/new/gcd_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

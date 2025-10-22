@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Inicio de la simulación GCD (Corregida)
+Reset liberado
+Caso 1: GCD(70, 15)
+Cálculo terminado. Resultado:   0
+Prueba 1: FALLÓ
+Caso 2: GCD(15, 70)
+Cálculo terminado. Resultado:   5
+Prueba 2: PASÓ
+Caso 3: GCD(12, 18)
+Cálculo terminado. Resultado:   5
+Prueba 3: FALLÓ
+Simulación finalizada.
+$stop called at time : 615 ns : File "C:/Users/Tati/Desktop/A NOVENO SEMESTRE/Dise�o de sistemas digitales/ACTIVIDAD VI/ACTIVIDAD VI.srcs/sim_1/new/gcd_tb.sv" Line 93
